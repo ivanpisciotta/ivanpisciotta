@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Iván
 
-<!--
-**ivanpisciotta/ivanpisciotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Caracas, Venezuela. I combine web development with hands-on DeFi experience: I trade on Hyperliquid and build my own tools for it.
 
-Here are some ideas to get you started:
+- **Background:** 4Geeks Academy, Full Stack Developer (2026) · UCAB, DeFi: Decentralized Finance course (2025)
+- **Open to:** freelance, remote and on-site roles in Caracas
+- **Languages:** Spanish (native), English (fluent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[Lidobot](https://github.com/ivanpisciotta/Lidobot):** smart-money tracker for Hyperliquid with real-time Telegram alerts
+- **[Blockali](https://github.com/ivanpisciotta/blockali):** blockchain learning platform (team project), Flask + React + JWT roles
+- **[auth-jwt-flask-react](https://github.com/ivanpisciotta/auth-jwt-flask-react):** full JWT authentication flow
+- **[starwars-blog-api](https://github.com/ivanpisciotta/starwars-blog-api):** REST API with Flask and SQLAlchemy
+
+## Stack
+
+Python · Flask · SQLAlchemy · PostgreSQL · JavaScript · React · Git · Linux
+
+## Contact
+
+LinkedIn: coming soon
